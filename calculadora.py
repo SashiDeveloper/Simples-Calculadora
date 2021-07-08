@@ -10,7 +10,7 @@ def multiply(x,y) :
 def divide(x,y) :
   return x / y
 
-print("Select operation")
+print("Selecione a Operação")
 print("1. ˚ ꒷Adição")
 print("2. ˚ ꒷Subtração")
 print("3. ˚ ꒷Multiplicação")
