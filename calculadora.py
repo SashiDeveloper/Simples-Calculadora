@@ -34,3 +34,6 @@ elif choice == '4' :
   
 else :
   print("Erro.")
+
+# Calculadora Simples mesmo
+# bagulho simples mesmo
