@@ -36,4 +36,3 @@ else :
   print("Erro.")
 
 # Calculadora Simples mesmo
-# bagulho simples mesmo
